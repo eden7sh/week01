@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-	std::cout << "Hello, Seohyeon\n";
+	std::cout << "Hello, c++\n";
 	return 0;
-} 
+}
